@@ -59,6 +59,7 @@ $results = $conn->query("Select * from categories");
     <h2> Developement Class Blog </h2>
     <h2> Developement Class Blog </h2>
         <h2> Developement Class Blog </h2>
+          <h2> Developement Class Blog </h2>
 </div>
 
 
