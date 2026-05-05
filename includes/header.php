@@ -58,6 +58,7 @@ $results = $conn->query("Select * from categories");
     <img src="/assets/images/logo.png" width="100px"/>
     <h2> Developement Class Blog </h2>
     <h2> Developement Class Blog </h2>
+        <h2> Developement Class Blog </h2>
 </div>
 
 
