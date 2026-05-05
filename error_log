@@ -1,0 +1,66 @@
+[12-Jun-2024 20:53:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/toptcszk/blog.toptechschooledu.com/database.php:10
+Stack trace:
+#0 /home/toptcszk/blog.toptechschooledu.com/database.php(10): mysqli->__construct()
+#1 /home/toptcszk/blog.toptechschooledu.com/index.php(3): include('/home/toptcszk/...')
+#2 {main}
+  thrown in /home/toptcszk/blog.toptechschooledu.com/database.php on line 10
+[12-Jun-2024 20:54:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/toptcszk/blog.toptechschooledu.com/database.php:10
+Stack trace:
+#0 /home/toptcszk/blog.toptechschooledu.com/database.php(10): mysqli->__construct()
+#1 /home/toptcszk/blog.toptechschooledu.com/index.php(3): include('/home/toptcszk/...')
+#2 {main}
+  thrown in /home/toptcszk/blog.toptechschooledu.com/database.php on line 10
+[12-Jun-2024 20:54:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/toptcszk/blog.toptechschooledu.com/database.php:10
+Stack trace:
+#0 /home/toptcszk/blog.toptechschooledu.com/database.php(10): mysqli->__construct()
+#1 /home/toptcszk/blog.toptechschooledu.com/index.php(3): include('/home/toptcszk/...')
+#2 {main}
+  thrown in /home/toptcszk/blog.toptechschooledu.com/database.php on line 10
+[12-Jun-2024 20:54:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/toptcszk/blog.toptechschooledu.com/database.php:10
+Stack trace:
+#0 /home/toptcszk/blog.toptechschooledu.com/database.php(10): mysqli->__construct()
+#1 /home/toptcszk/blog.toptechschooledu.com/index.php(3): include('/home/toptcszk/...')
+#2 {main}
+  thrown in /home/toptcszk/blog.toptechschooledu.com/database.php on line 10
+[12-Jun-2024 20:54:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/toptcszk/blog.toptechschooledu.com/database.php:10
+Stack trace:
+#0 /home/toptcszk/blog.toptechschooledu.com/database.php(10): mysqli->__construct()
+#1 /home/toptcszk/blog.toptechschooledu.com/index.php(3): include('/home/toptcszk/...')
+#2 {main}
+  thrown in /home/toptcszk/blog.toptechschooledu.com/database.php on line 10
+[12-Jun-2024 20:54:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/toptcszk/blog.toptechschooledu.com/database.php:10
+Stack trace:
+#0 /home/toptcszk/blog.toptechschooledu.com/database.php(10): mysqli->__construct()
+#1 /home/toptcszk/blog.toptechschooledu.com/index.php(3): include('/home/toptcszk/...')
+#2 {main}
+  thrown in /home/toptcszk/blog.toptechschooledu.com/database.php on line 10
+[12-Jun-2024 20:54:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/toptcszk/blog.toptechschooledu.com/database.php:10
+Stack trace:
+#0 /home/toptcszk/blog.toptechschooledu.com/database.php(10): mysqli->__construct()
+#1 /home/toptcszk/blog.toptechschooledu.com/index.php(3): include('/home/toptcszk/...')
+#2 {main}
+  thrown in /home/toptcszk/blog.toptechschooledu.com/database.php on line 10
+[12-Jun-2024 20:54:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/toptcszk/blog.toptechschooledu.com/database.php:10
+Stack trace:
+#0 /home/toptcszk/blog.toptechschooledu.com/database.php(10): mysqli->__construct()
+#1 /home/toptcszk/blog.toptechschooledu.com/index.php(3): include('/home/toptcszk/...')
+#2 {main}
+  thrown in /home/toptcszk/blog.toptechschooledu.com/database.php on line 10
+[12-Jun-2024 20:55:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/toptcszk/blog.toptechschooledu.com/database.php:10
+Stack trace:
+#0 /home/toptcszk/blog.toptechschooledu.com/database.php(10): mysqli->__construct()
+#1 /home/toptcszk/blog.toptechschooledu.com/index.php(3): include('/home/toptcszk/...')
+#2 {main}
+  thrown in /home/toptcszk/blog.toptechschooledu.com/database.php on line 10
+[12-Jun-2024 20:56:46 UTC] PHP Warning:  Undefined array key "name" in /home/toptcszk/blog.toptechschooledu.com/blog-post.php on line 122
+[28-Sep-2024 00:06:32 UTC] PHP Warning:  Undefined array key "name" in /home/toptcszk/blog.toptechschooledu.com/blog-post.php on line 122
+[02-Nov-2024 20:29:40 UTC] PHP Warning:  Undefined array key "name" in /home/toptcszk/blog.toptechschooledu.com/blog-post.php on line 122
+[02-Nov-2024 20:30:10 UTC] PHP Warning:  Undefined array key "name" in /home/toptcszk/blog.toptechschooledu.com/blog-post.php on line 122
+[02-Nov-2024 20:42:25 UTC] PHP Warning:  Undefined array key "name" in /home/toptcszk/blog.toptechschooledu.com/blog-post.php on line 122
+[31-Oct-2025 23:41:32 UTC] PHP Warning:  session_start(): open(/opt/alt/php82/var/lib/php/session/sess_irdksll6a9cl7pf9pqiten9nm8, O_RDWR) failed: No such file or directory (2) in /home/toptcszk/blog.toptechschooledu.com/index.php on line 2
+[31-Oct-2025 23:41:32 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php82/var/lib/php/session) in /home/toptcszk/blog.toptechschooledu.com/index.php on line 2
+[31-Oct-2025 23:41:32 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/toptcszk/blog.toptechschooledu.com/database.php:10
+Stack trace:
+#0 /home/toptcszk/blog.toptechschooledu.com/index.php(3): include()
+#1 {main}
+  thrown in /home/toptcszk/blog.toptechschooledu.com/database.php on line 10
